@@ -1,2 +1,1 @@
-# twitter-like-bot
-Twitter like bot using Tweepy
+Add in API keys and mass like Twitter posts via. keywords/hashtag.
