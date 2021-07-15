@@ -13,4 +13,5 @@
 - Python installed (shorturl.at/vHOP5)
 - PIP installed (shorturl.at/clD01)
 - Tweepy, termcolor, pyfiglter installed (open terminal and run): ```pip install tweepy termcolor pyfiglet```
+- Create a project/app within Twitter Dev and generate the keys needed and labeled within the script.
 

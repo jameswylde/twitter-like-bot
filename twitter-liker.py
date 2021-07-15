@@ -22,7 +22,7 @@ cls()
 
 # ASCII title
 
-cprint(figlet_format('Tweet', font='banner3-D'), 'blue', attrs=['bold', 'dark'])
+cprint(figlet_format('Twitter', font='banner3-D'), 'blue', attrs=['bold', 'dark'])
 cprint(figlet_format('Liker', font='banner3-D'), 'blue', attrs=['bold', 'dark'])
 cprint(figlet_format('jimcw44', font='banner3-D'), 'blue', attrs=['bold', 'dark'])
 
