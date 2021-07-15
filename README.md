@@ -11,9 +11,9 @@
 
 **Prerequisites**
 
-- Twitter Developer account (shorturl.at/mxKMQ)
-- Python installed (shorturl.at/vHOP5)
-- PIP installed (shorturl.at/clD01)
+- Twitter Developer account (www.shorturl.at/mxKMQ)
+- Python installed (www.shorturl.at/vHOP5)
+- PIP installed (www.shorturl.at/clD01)
 - Tweepy, termcolor, pyfiglter installed (open terminal and run): ```pip install tweepy termcolor pyfiglet```
 - Create a project/app within Twitter Dev and generate the keys needed and labeled within the script.
 
