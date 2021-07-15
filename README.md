@@ -2,7 +2,7 @@
 
 <br/>
 
-## Simple Python script using Tweepy to search for a user/hashtag/keyword and like a specified amount of Tweets, helping increase engagement, whilst printing the author and full tweet.
+## Simple Python script using Tweepy to search for a user/hashtag/keyword and like a specified amount of Tweets, helping increase engagement, whilst printing the author and full tweet. Feel free to improve and adapt.
 
 <br/>
 
