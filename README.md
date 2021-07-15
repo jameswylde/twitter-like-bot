@@ -6,6 +6,8 @@
 
 <br/>
 
+![](https://github.com/jameswylde/twitter-liker/blob/main/example.gif)
+
 
 **Prerequisites**
 
